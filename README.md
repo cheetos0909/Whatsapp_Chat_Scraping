@@ -10,7 +10,7 @@ Before you can use this script, you need to have the following:
 - The required Python libraries installed. You can install them using the following command:
 
     ```bash
-    pip install pushbullet.py pandas
+    pip install pushbullet.py
     ```
 
 - A Pushbullet API key. You can obtain your API key from the Pushbullet website.
@@ -54,9 +54,6 @@ Here is an example of the cleaned chat data in the Excel file:
 | 2023-10-01 | 15:40:00| Friend    | What have you been up to?|
 | ...        |   ...   |   ...     | ...                      |
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
