@@ -39,7 +39,7 @@ The script also cleans the raw chat data, extracting the date, time, sender's na
 
 ## File Structure
 
-- `whatsapp_chat_scraper.py`: The main Python script for scraping WhatsApp chat data.
+- `chat_scrapping_through_pushbullet.ipynb`: The main Python script for scraping WhatsApp chat data.
 - `config.py`: Configuration file for storing your Pushbullet API key.
 - `chat_with_friend.xlsx`: The output Excel file containing the cleaned chat data.
 
